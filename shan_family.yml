@@ -1,0 +1,42 @@
+  "shan": "M"
+"anga":
+  parent: nil
+  spouse: "shan"
+  gender: "F"
+"ish":
+  parent: "shan"
+  spouse: nil
+  gender: "M"
+"chit":
+  parent: "shan"
+  spouse: "ambi"
+  gender: "M"
+"ambi":
+  parent: nil
+  spouse: "chit"
+  gender: "F"
+"vich":
+  parent: "shan"
+  spouse: "lika"
+  gender: "M"
+"lika":
+  parent: nil
+  spouse: "vich"
+  gender: "F"
+"satya":
+  parent: "shan"
+  spouse: "vyan"
+  gender: "F"
+"vyan":
+  parent: nil
+  spouse: "satya"
+  gender: "M"
+"drita":
+  parent: "chit"
+  spouse: "jaya"
+  gender: "M"
+"jaya":
+  parent: nil
+  spouse: "drita"
+  gender: "F"
+
